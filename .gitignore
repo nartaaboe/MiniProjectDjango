@@ -1,0 +1,13 @@
+# VirtualEnv
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Compiler junk
+__pycache__/
+
+# Local 
+static/
+*.sqlite3
+*.env
+media/
